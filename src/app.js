@@ -48,9 +48,26 @@ const createDocument = async () => {
 
 //4. Read Document
 
-const getDocument = async () =>{
+/**const getDocument = async () =>{
     const result = await Rony.find();
     console.log(result);
+}**/
+
+// Condition wise
+// put you condition in line no. 62
+//  .find({{ctype: "{$gt : 10"}})
+//for more condition --> https://www.mongodb.com/docs/manual/reference/operator/query/
+
+const getDocument = async () =>{
+    try{
+        const result = await Rony
+        .find({ctype: "Front End"})
+        .select({name:1})
+        .limit(1);
+        console.log(result);
+    }catch(err){
+        console.log(err);
+    }
 }
 
 getDocument();
