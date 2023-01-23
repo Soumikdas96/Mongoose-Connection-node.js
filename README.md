@@ -1,3 +1,6 @@
+![mastering-mongoose-for-mongodb-and-node-js-mongoose-diagram-77560014632570f4](https://user-images.githubusercontent.com/91152839/214068513-7d0f8c84-4cbd-4c9b-abdc-f57f4d5da258.png)
+
+
 # Mongoose
 
 <h4> Step 1 <h4>
@@ -47,4 +50,11 @@ i.reactRony.save();
 ii. Open terminal and run 'node src/app.js'
   
 ```
+
+  
+<h4> Step 4 <h4>
+ 
+*Change Promise to Await*  
+  
+![Screenshot (181)](https://user-images.githubusercontent.com/91152839/214068171-9ad69c3d-858a-42fe-ae2a-e9bc45aae664.png)
 
