@@ -58,3 +58,11 @@ ii. Open terminal and run 'node src/app.js'
   
 ![Screenshot (181)](https://user-images.githubusercontent.com/91152839/214068171-9ad69c3d-858a-42fe-ae2a-e9bc45aae664.png)
 
+
+<h4> Step 5 <h4>
+
+*Read Document*
+
+![Screenshot (182)](https://user-images.githubusercontent.com/91152839/214074880-74aa163c-6fd5-4711-9bf8-8779386ddc99.png)
+
+note- createDocument(); coverted to comment beacuse if it's working position then we will add same value inside of our data
