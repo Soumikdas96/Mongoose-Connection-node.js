@@ -36,5 +36,15 @@
   
 ![Screenshot (179)](https://user-images.githubusercontent.com/91152839/214060859-f8b3abab-03c8-4f8e-8222-6db990a341a7.png)
 
+*C.Add Document
 
+![Screenshot (180)](https://user-images.githubusercontent.com/91152839/214065148-a86b4555-0306-4d44-9205-a91b3d907941.png)
+  
+*D save and run
+
+```
+i.reactRony.save();
+ii. Open terminal and run 'node src/app.js'
+  
+```
 
