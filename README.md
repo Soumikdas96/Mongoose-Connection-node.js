@@ -28,11 +28,11 @@
   
 <h4> Step 4 <h4>
 
-*My database*
+*A.My database*
 
 ![Screenshot (178)](https://user-images.githubusercontent.com/91152839/214057232-77a0156c-5496-4d7d-9739-819395351084.png)
   
-*Add Schema and Models*
+*B.Add Schema and Models*
   
 ![Screenshot (179)](https://user-images.githubusercontent.com/91152839/214060859-f8b3abab-03c8-4f8e-8222-6db990a341a7.png)
 
